@@ -1,1 +1,1 @@
-https://github.com/ssb000ss/rsschool-2019Q1-cv/blob/gh-pages/cv
+https://ssb000ss.github.io/rsschool-2019Q1-cv/cv
