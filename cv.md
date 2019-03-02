@@ -34,9 +34,11 @@ __Android developing course, nFactorial, Zero To One Labs, Narabaev University__
 
 ### Online trainings
 
-__Android developer [Geekbrains ](https://geekbrains.ru)
-__Java developer [Javabegin](https://javabegin.ru)
-__JavaScript developer [Learn Javascript](https://learn.javascript.ru/)
+__Android developer__[Geekbrains ](https://geekbrains.ru)
+
+__Java developer__ [Javabegin](https://javabegin.ru)
+
+__JavaScript developer__[Learn Javascript](https://learn.javascript.ru/)
 
 
 
