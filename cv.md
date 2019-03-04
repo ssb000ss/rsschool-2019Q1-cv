@@ -27,11 +27,11 @@ __Zhytomyr Institute of radio electronics and communications, Republic of Ukrain
 __Android developing course, nFactorial, Zero To One Labs, Narabaev University__
 
 ### Online trainings
-__Android developer__[Geekbrains ](https://geekbrains.ru)
+__Android developer__ [Geekbrains ](https://geekbrains.ru)
 
 __Java developer__ [Javabegin](https://javabegin.ru)
 
-__JavaScript developer__[Learn Javascript](https://learn.javascript.ru/)
+__JavaScript developer__ [Learn Javascript](https://learn.javascript.ru/)
 
 ### English
 `Level:`
